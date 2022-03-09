@@ -1,0 +1,1 @@
+#TODO kriegt das 2d array und druckt es aus. Jedes der Felder hat das Attirbut Kreuz, Kreis oder Leer
